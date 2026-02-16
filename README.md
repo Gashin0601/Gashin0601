@@ -1,23 +1,31 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Gashin0601/new-gashin-website/main/public/images/profile/gashin_lv.jpeg" width="180" style="border-radius: 50%;" alt="鈴木我信" />
+
 # 鈴木我信 / Gashin Suzuki
 
-**アクセシビリティ × テクノロジーで、誰もが見える世界を。**
+**♿ Accessibility × Tech | 視覚障害当事者エンジニア | 慶應SFC**
 
-視覚障害当事者のクリエイター・エンジニア。見えにくさを知っているからこそ作れるものがある、という想いでプロダクトを開発しています。
+見えにくさを知っているからこそ作れるものがある
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-gashin.me-blue?style=flat-square)](https://gashin.me)
+[![X](https://img.shields.io/badge/X-@suzuki__gashin-black?style=flat-square&logo=x)](https://x.com/suzuki_gashin)
+
+</div>
 
 ---
 
 ### 🔧 主なプロジェクト
 
-| プロジェクト | 概要 |
-|---|---|
-| [**VisionAssist ALT**](https://github.com/Gashin0601/VisionAssistALT-GPTs) | 視覚障害者向けALT（画像説明）自動生成GPTs |
-| [**Accessible Notion**](https://github.com/Gashin0601/Accessible-notion) | Notionをスクリーンリーダー対応にするChrome拡張 |
-| [**ミテルンデス**](https://github.com/Gashin0601/miterundesu-site) | 保存できない拡大カメラアプリ |
-| [**Portfolio**](https://github.com/Gashin0601/new-gashin-website) | シネマティック演出のポートフォリオサイト |
+- 🔍 **[ミテルンデス (iOS)](https://github.com/Gashin0601/miterundesu)** — 保存できない拡大カメラアプリ（Swift / SwiftUI）
+- 🤖 **[ミテルンデス (Android)](https://github.com/Gashin0601/miterundesu-android)** — Android版（Kotlin / Jetpack Compose）
+- 👁 **[VisionAssist ALT](https://github.com/Gashin0601/VisionAssistALT-GPTs)** — 視覚障害者向けALT自動生成GPTs
+- 🧩 **[Accessible Notion](https://github.com/Gashin0601/Accessible-notion)** — Notionをスクリーンリーダー対応にするChrome拡張
+- 🎬 **[Portfolio](https://gashin.me)** — シネマティック演出のポートフォリオサイト
 
 ### 🛠 Tech Stack
 
-`TypeScript` `Next.js` `React` `Swift` `Kotlin` `Tailwind CSS` `Python`
+`Swift` `Kotlin` `TypeScript` `Next.js` `React` `Tailwind CSS` `Python`
 
 ### ♿ 関心領域
 
@@ -28,4 +36,8 @@
 
 ---
 
-📫 **Contact** → [ポートフォリオサイト](https://github.com/Gashin0601/new-gashin-website)
+<div align="center">
+
+📫 **[gashin.me](https://gashin.me)** でもっと詳しく
+
+</div>
