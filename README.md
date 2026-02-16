@@ -15,6 +15,6 @@
 
 ### Projects
 
-- [ミテルンデス](https://github.com/Gashin0601/miterundesu)（[iOS](https://github.com/Gashin0601/miterundesu) / [Android](https://github.com/Gashin0601/miterundesu-android)）— 美術館・博物館で安心して使える拡大カメラ。撮影画像は自動削除、スクショ・録画防止
+- [ミテルンデス](https://www.miterundesu.jp)（[iOS](https://github.com/Gashin0601/miterundesu) / [Android](https://github.com/Gashin0601/miterundesu-android)）— 撮影じゃない、拡大して見るためのアプリ。画像は自動削除、スクショ・録画防止
 - [VisionAssist ALT](https://github.com/Gashin0601/VisionAssistALT-GPTs) — 画像のALTテキストを自動生成するGPTs
 - [Accessible Notion](https://github.com/Gashin0601/Accessible-notion) — Notionのスクリーンリーダー・キーボード操作対応Chrome拡張
